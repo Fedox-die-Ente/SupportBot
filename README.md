@@ -1,5 +1,5 @@
 
-![Logo](https://blog-assets.freshworks.com/freshdesk/wp-content/uploads/2016/11/ML_Blog.jpg)
+![Logo](https://www.ultimate.ai/hubfs/Support-Bot-01-1.png)
 
 
 # Support Bot
